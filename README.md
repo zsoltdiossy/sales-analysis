@@ -1,4 +1,4 @@
-# sales-analysis
+# Sales Analysis
 Analysing sales data of an electronics store.
 
 ## Project Description
