@@ -8,5 +8,7 @@ In this project I will analyse a fictinal electronics store's order data, in ord
 Packages used:
  - Pandas
  - Matplotlib
+ - Combinations
+ - Counter
 
 Datasets: 12 files for 12 months of sales order data.
